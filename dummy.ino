@@ -3,7 +3,7 @@
 #include <ESP_Mail_Client.h>
 
 // Wi-Fi AP credentials
-const char* ssid = "HEL";
+const char* ssid = "HEL"; 
 const char* password = "123456789";
 
 // Pins
